@@ -11,7 +11,7 @@ function logShout(string) {
 }
 
 function logWhisper(string) {
-  console.log(string,toLowerCase)
+  console.log(string.toLowerCase)
 }
 
 var lowCase = "I can't hear you!";
