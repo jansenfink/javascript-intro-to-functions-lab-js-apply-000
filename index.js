@@ -14,7 +14,7 @@ function logWhisper(string) {
   console.log(string.toLowerCase)
 }
 
-var lowCase = "I can't hear you!";
+var lowCase = "hello!";
 
 var allUp = "HELLO!";
 
