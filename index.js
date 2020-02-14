@@ -7,5 +7,20 @@ function whisper(string) {
 }
 
 function logShout(string) {
-  console.logstring.toUpperCase()
+  console.log(string.toUpperCase)
+}
+
+function logWhisper(string) {
+  console.log(string,toLowerCase)
+}
+
+var lowCase = "I can't hear you!";
+
+var allUp = "YES INDEED!";
+
+var mixedCase 
+
+
+sayHiToGrandma() {
+  
 }
