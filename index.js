@@ -16,13 +16,15 @@ function logWhisper(string) {
 
 var lowCase = "I can't hear you!";
 
-var allUp = "YES INDEED!";
+var allUp = "HELLO!";
 
 var loveYou = "I love you, Grandma.";
 
 
 function sayHiToGrandma() {  
-  return allUp.toUpperCase() === true
+  if (allUp.toUpperCase() === true) {
+    return 
+  }
   return lowCase.toLowerCase() === true
  return "I love you, too." === loveYou;
   
