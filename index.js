@@ -21,11 +21,15 @@ var uppsercase = "HELLO!";
 var mixedCase = "I love you, Grandma.";
 
 
-function sayHiToGrandma() {  
- if  uppercase.toUpperCase() === uppercase  {
-    return 
+function sayHiToGrandma(string) {  
+ if  (uppercase.toUpperCase() === uppercase)  {
+    return "YES INDEED!";
   }
-  return lowercase.toLowerCase() === lowercase
- return "I love you, too." === loveYou;
+  if (lowercase.toLowerCase() === lowercase) {
+    return "I can't hear you!";
+  }
+else {
+  return "I love you, too."
+}
   
 }
