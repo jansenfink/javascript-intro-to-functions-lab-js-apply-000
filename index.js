@@ -22,10 +22,10 @@ var mixedCase = "I love you, Grandma.";
 
 
 function sayHiToGrandma() {  
-  if (allUp.toUpperCase() === true) {
+ if  uppercase.toUpperCase() === uppercase  {
     return 
   }
-  return lowCase.toLowerCase() === true
+  return lowercase.toLowerCase() === lowercase
  return "I love you, too." === loveYou;
   
 }
