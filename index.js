@@ -18,9 +18,14 @@ var lowCase = "I can't hear you!";
 
 var allUp = "YES INDEED!";
 
-var mixedCase 
+var mixedCase = ""
 
 
 sayHiToGrandma() {
+  
+  allUp.toUpperCase() === true
+  lowCase.toLowerCase() === true
+  mixedCase.toLowerCase() === false
+  mixedCase.toUpperCase() === false
   
 }
